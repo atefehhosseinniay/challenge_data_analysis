@@ -24,8 +24,12 @@ The real estate company "ImmoEliza" wants to create a machine learning model to 
 - No blank spaces 
 - No errors
 - No empty values
-- library: import pandas as pd
 - data_set='houses_1.csv'
+
+# Library
+- pandas
+- matplotlib
+- seaborn
 
 
 
