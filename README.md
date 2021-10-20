@@ -33,12 +33,12 @@ The real estate company "ImmoEliza" wants to create a machine learning model to 
 
 # Presentation
 
-What are the most expensive municipalities in Belgium? (Average price, median price, price per square meter)
-What are the less expensive municipalities in Belgium? (Average price, median price, price per square meter)
-What are the most expensive municipalities in Wallonia? (Average price, median price, price per square meter)
-What are the less expensive municipalities in Wallonia? (Average price, median price, price per square meter)
-What are the most expensive municipalities in Flanders? (Average price, median price, price per square meter)
-What are the less expensive municipalities in Flanders? (Average price, median price, price per square meter
+- What are the most expensive municipalities in Belgium? (Average price, median price, price per square meter)
+- What are the less expensive municipalities in Belgium? (Average price, median price, price per square meter)
+- What are the most expensive municipalities in Wallonia? (Average price, median price, price per square meter)
+- What are the less expensive municipalities in Wallonia? (Average price, median price, price per square meter)
+- What are the most expensive municipalities in Flanders? (Average price, median price, price per square meter)
+- What are the less expensive municipalities in Flanders? (Average price, median price, price per square meter
 
 
 
